@@ -5,3 +5,6 @@
 # If arr[i] == target, return index.
 # If you reach the end without finding it, return -1.
 
+nums = [4, 2, 7, 1, 9]
+
+def linear_search()
